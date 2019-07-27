@@ -1,0 +1,2819 @@
+jQuery310018528044900654117_1564259970170({
+    "AllApps": [{
+            "id": 1,
+            "name": "123 Movies",
+            "developer": "123 Movies",
+            "subtitle": "D&D Studio"
+        },
+        {
+            "id": 2,
+            "name": "2600.emu",
+            "developer": "2600.emu",
+            "subtitle": "Robert Broglia"
+        },
+        {
+            "id": 3,
+            "name": "AeroTV",
+            "developer": "AeroTV",
+            "subtitle": "AeroTV"
+        },
+        {
+            "id": 4,
+            "name": "AirFloat",
+            "developer": "AirFloat",
+            "subtitle": "Trenskow"
+        },
+        {
+            "id": 5,
+            "name": "AirRec",
+            "developer": "AirRec",
+            "subtitle": "@AirRecApp"
+        },
+        {
+            "id": 6,
+            "name": "AirShou",
+            "developer": "AirShou",
+            "subtitle": "ShouTV"
+        },
+        {
+            "id": 7,
+            "name": "AudioTube",
+            "developer": "AudioTube",
+            "subtitle": "Ricardo Ramos"
+        },
+        {
+            "id": 8,
+            "name": "BarMagnet",
+            "developer": "BarMagnet",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 9,
+            "name": "BatteryLife",
+            "developer": "BatteryLife",
+            "subtitle": "Carlo Tortorella"
+        },
+        {
+            "id": 10,
+            "name": "BB Rec",
+            "developer": "BB Rec",
+            "subtitle": "Shengfeng Li"
+        },
+        {
+            "id": 1358,
+            "name": "Unc0ver Dark (Unofficial)",
+            "developer": "Unc0ver Dark (Unofficial)",
+            "subtitle": "Shady"
+        },
+        {
+            "id": 13,
+            "name": "BobbyMusic++",
+            "developer": "BobbyMusic++",
+            "subtitle": "BobbyMovie"
+        },
+        {
+            "id": 14,
+            "name": "BobbyMusic",
+            "developer": "BobbyMusic",
+            "subtitle": "BobbyMovie"
+        },
+        {
+            "id": 15,
+            "name": "C64.emu",
+            "developer": "C64.emu",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 16,
+            "name": "Cartoon HD++",
+            "developer": "Cartoon HD++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 22,
+            "name": "Channels",
+            "developer": "Channels",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 23,
+            "name": "Clash of Kings++",
+            "developer": "Clash of Kings++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 24,
+            "name": "Plenix Clash",
+            "developer": "Plenix Clash",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 25,
+            "name": "ClassicPlayer",
+            "developer": "ClassicPlayer",
+            "subtitle": "Guillermo Morán (fr0st)"
+        },
+        {
+            "id": 26,
+            "name": "Crunchyroll++",
+            "developer": "Crunchyroll++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 28,
+            "name": "Deezer++",
+            "developer": "Deezer++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 29,
+            "name": "Delta",
+            "developer": "Delta",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 30,
+            "name": "DNS Override++",
+            "developer": "DNS Override++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 32,
+            "name": "DownCloud++",
+            "developer": "DownCloud++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 33,
+            "name": "DownCloud",
+            "developer": "DownCloud",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 34,
+            "name": "Electra1112",
+            "developer": "Electra1112",
+            "subtitle": "Electra Team"
+        },
+        {
+            "id": 1361,
+            "name": "Cercube 5",
+            "developer": "Cercube 5",
+            "subtitle": "Majd Alfhaily"
+        },
+        {
+            "id": 1363,
+            "name": "IgnitionTest",
+            "developer": "IgnitionTest",
+            "subtitle": "Ignition"
+        },
+        {
+            "id": 1364,
+            "name": "Notability",
+            "developer": "Notability",
+            "subtitle": "Notabiltity"
+        },
+        {
+            "id": 37,
+            "name": "Electra1131 VFS",
+            "developer": "Electra1131 VFS",
+            "subtitle": "Electra Team"
+        },
+        {
+            "id": 40,
+            "name": "etasonJB",
+            "developer": "etasonJB",
+            "subtitle": "tihmstar"
+        },
+        {
+            "id": 41,
+            "name": "EveryCord",
+            "developer": "EveryCord",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 42,
+            "name": "extra recipe+yaluX",
+            "developer": "extra recipe+yaluX",
+            "subtitle": "qwertyoruiop"
+        },
+        {
+            "id": 43,
+            "name": "Facebook++",
+            "developer": "Facebook++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 44,
+            "name": "FileBrowser",
+            "developer": "FileBrowser",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 45,
+            "name": "Fily",
+            "developer": "Fily",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 46,
+            "name": "Filza iOS 11.3.x",
+            "developer": "Filza iOS 11.3.x",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 47,
+            "name": "FilzaJailed",
+            "developer": "FilzaJailed",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 48,
+            "name": "Firebird Emu 32bit",
+            "developer": "Firebird Emu 32bit",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 49,
+            "name": "Firebird Emu 64bit",
+            "developer": "Firebird Emu 64bit",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 50,
+            "name": "FlappyBird",
+            "developer": "FlappyBird",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 51,
+            "name": "FlickJoy",
+            "developer": "FlickJoy",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 52,
+            "name": "FloppyCloud",
+            "developer": "FloppyCloud",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 53,
+            "name": "Fortune",
+            "developer": "Fortune",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 54,
+            "name": "GamePad",
+            "developer": "GamePad",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 55,
+            "name": "GBA.emu",
+            "developer": "GBA.emu",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 56,
+            "name": "GBA4iOS",
+            "developer": "GBA4iOS",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 57,
+            "name": "GBA4iOS11",
+            "developer": "GBA4iOS11",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 58,
+            "name": "GBC.emu",
+            "developer": "GBC.emu",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 59,
+            "name": "GC4iOS",
+            "developer": "GC4iOS",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 60,
+            "name": "Gearboy",
+            "developer": "Gearboy",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 61,
+            "name": "Gearsystem",
+            "developer": "Gearsystem",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 62,
+            "name": "GoodNight",
+            "developer": "GoodNight",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 63,
+            "name": "gpSPhone",
+            "developer": "gpSPhone",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 64,
+            "name": "Gridlee",
+            "developer": "Gridlee",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 66,
+            "name": "HandJoy++",
+            "developer": "HandJoy++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 67,
+            "name": "HandJoy",
+            "developer": "HandJoy",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 68,
+            "name": "Happy Chick 32bit",
+            "developer": "Happy Chick 32bit",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 69,
+            "name": "Happy Chick 64bit",
+            "developer": "Happy Chick 64bit",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 70,
+            "name": "HappyCast",
+            "developer": "HappyCast",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 71,
+            "name": "hiMusic++",
+            "developer": "hiMusic++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 72,
+            "name": "hiMusic",
+            "developer": "hiMusic",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 73,
+            "name": "Home Depot",
+            "developer": "Home Depot",
+            "subtitle": "jk9357"
+        },
+        {
+            "id": 74,
+            "name": "iBox",
+            "developer": "iBox",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 75,
+            "name": "iCleaner",
+            "developer": "iCleaner",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 76,
+            "name": "iDeviceWalls",
+            "developer": "iDeviceWalls",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 77,
+            "name": "iDos",
+            "developer": "iDos",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 78,
+            "name": "iDos 2",
+            "developer": "iDos 2",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 79,
+            "name": "iFBA",
+            "developer": "iFBA",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 80,
+            "name": "iFile",
+            "developer": "iFile",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 81,
+            "name": "iFoneOS",
+            "developer": "iFoneOS",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 83,
+            "name": "iNDS",
+            "developer": "iNDS",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 84,
+            "name": "Instagram++",
+            "developer": "Instagram++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 85,
+            "name": "Instagram IGExperiments",
+            "developer": "Instagram IGExperiments",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 86,
+            "name": "Instagram Rocket",
+            "developer": "Instagram Rocket",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 87,
+            "name": "iPlayTV",
+            "developer": "iPlayTV",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 88,
+            "name": "iRec",
+            "developer": "iRec",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 89,
+            "name": "iSSB",
+            "developer": "iSSB",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 90,
+            "name": "iTransmission",
+            "developer": "iTransmission",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 91,
+            "name": "iTweetDeck",
+            "developer": "iTweetDeck",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 92,
+            "name": "Kik++",
+            "developer": "Kik++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 93,
+            "name": "Kodi Jarvis",
+            "developer": "Kodi Jarvis",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 94,
+            "name": "Kodi Krypton 32bit",
+            "developer": "Kodi Krypton 32bit",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 95,
+            "name": "Kodi Krypton 64bit",
+            "developer": "Kodi Krypton 64bit",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 96,
+            "name": "Kodi Legacy",
+            "developer": "Kodi Legacy",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 97,
+            "name": "Kodi Leia 32bit",
+            "developer": "Kodi Leia 32bit",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 98,
+            "name": "Kodi Leia 64bit",
+            "developer": "Kodi Leia 64bit",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 99,
+            "name": "Live Wire",
+            "developer": "Live Wire",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 100,
+            "name": "mach portal+yalu",
+            "developer": "mach portal+yalu",
+            "subtitle": "qwertyoruiop"
+        },
+        {
+            "id": 101,
+            "name": "Magnetometer",
+            "developer": "Magnetometer",
+            "subtitle": "Shuga Studios"
+        },
+        {
+            "id": 102,
+            "name": "MAME4iOS 32bit",
+            "developer": "MAME4iOS 32bit",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 103,
+            "name": "MAME4iOS 64bit",
+            "developer": "MAME4iOS 64bit",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 104,
+            "name": "MD.emu",
+            "developer": "MD.emu",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 105,
+            "name": "Memorado++",
+            "developer": "Memorado++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 106,
+            "name": "Meridian",
+            "developer": "Meridian",
+            "subtitle": "PsychoTea (iBSparkes)"
+        },
+        {
+            "id": 107,
+            "name": "MeSNEmu",
+            "developer": "MeSNEmu",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 109,
+            "name": "MIXTAPE PLAYER",
+            "developer": "MIXTAPE PLAYER",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 110,
+            "name": "MotionSourceiOS",
+            "developer": "MotionSourceiOS",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 113,
+            "name": "MovieHD",
+            "developer": "MovieHD",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 114,
+            "name": "MSX.emu",
+            "developer": "MSX.emu",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 115,
+            "name": "Music Pocket",
+            "developer": "Music Pocket",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 116,
+            "name": "musical.ly++",
+            "developer": "musical.ly++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 117,
+            "name": "MusicJunkie",
+            "developer": "MusicJunkie",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 118,
+            "name": "Napster++",
+            "developer": "Napster++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 119,
+            "name": "nds4ios",
+            "developer": "nds4ios",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 120,
+            "name": "NEO.emu",
+            "developer": "NEO.emu",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 121,
+            "name": "NES.emu",
+            "developer": "NES.emu",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 122,
+            "name": "Nestopia",
+            "developer": "Nestopia",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 123,
+            "name": "noncereboot1131UI",
+            "developer": "noncereboot1131UI",
+            "subtitle": "Pwn20wnd"
+        },
+        {
+            "id": 124,
+            "name": "NPG.emu",
+            "developer": "NPG.emu",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 125,
+            "name": "Pangu",
+            "developer": "Pangu",
+            "subtitle": "Pangu Team"
+        },
+        {
+            "id": 126,
+            "name": "PCE.emu",
+            "developer": "PCE.emu",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 128,
+            "name": "PixlRec",
+            "developer": "PixlRec",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 129,
+            "name": "Play!",
+            "developer": "Play!",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 130,
+            "name": "Plex++",
+            "developer": "Plex++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 133,
+            "name": "Pokemonidex",
+            "developer": "Pokemonidex",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 134,
+            "name": "Popcorn Time",
+            "developer": "Popcorn Time",
+            "subtitle": "PopcornTimeTV"
+        },
+        {
+            "id": 135,
+            "name": "PPSSPP",
+            "developer": "PPSSPP",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 136,
+            "name": "ProTube++",
+            "developer": "ProTube++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 137,
+            "name": "Provenance",
+            "developer": "Provenance",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 138,
+            "name": "Radio Javan++",
+            "developer": "Radio Javan++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 139,
+            "name": "RemoteFiles",
+            "developer": "RemoteFiles",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 140,
+            "name": "RetroArch 32bit",
+            "developer": "RetroArch 32bit",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 141,
+            "name": "RetroArch 64bit",
+            "developer": "RetroArch 64bit",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 142,
+            "name": "Rollectra",
+            "developer": "Rollectra",
+            "subtitle": "Pwn20wnd"
+        },
+        {
+            "id": 143,
+            "name": "RootlessJB",
+            "developer": "RootlessJB",
+            "subtitle": "Jake James"
+        },
+        {
+            "id": 144,
+            "name": "Saavn++",
+            "developer": "Saavn++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 146,
+            "name": "SaveCloud For SoundCloud",
+            "developer": "SaveCloud For SoundCloud",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 147,
+            "name": "Screen Grab",
+            "developer": "Screen Grab",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 148,
+            "name": "ScreenGrabALT",
+            "developer": "ScreenGrabALT",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 149,
+            "name": "ScummVM",
+            "developer": "ScummVM",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 150,
+            "name": "SetBeat",
+            "developer": "SetBeat",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 151,
+            "name": "Sleep Cycle++",
+            "developer": "Sleep Cycle++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 152,
+            "name": "Slick TV++",
+            "developer": "Slick TV++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 153,
+            "name": "Slick TV",
+            "developer": "Slick TV",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 154,
+            "name": "Snapchat++",
+            "developer": "Snapchat++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 155,
+            "name": "Snapchat Phantom Lite",
+            "developer": "Snapchat Phantom Lite",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 156,
+            "name": "Snapchat SCOthman",
+            "developer": "Snapchat SCOthman",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 157,
+            "name": "Snapchat SCOthman Lite",
+            "developer": "Snapchat SCOthman Lite",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 158,
+            "name": "Snes4ios",
+            "developer": "Snes4ios",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 159,
+            "name": "Snes9x EX+",
+            "developer": "Snes9x EX+",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 160,
+            "name": "Snes9x EX",
+            "developer": "Snes9x EX",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 161,
+            "name": "SoundCloud++",
+            "developer": "SoundCloud++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 162,
+            "name": "Spotify++",
+            "developer": "Spotify++",
+            "subtitle": "Juiloverne"
+        },
+        {
+            "id": 163,
+            "name": "StreamerTV",
+            "developer": "StreamerTV",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 164,
+            "name": "Surge",
+            "developer": "Surge",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 167,
+            "name": "The Movie DB++",
+            "developer": "The Movie DB++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 168,
+            "name": "The Movie DB",
+            "developer": "The Movie DB",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 170,
+            "name": "ToonsNow",
+            "developer": "ToonsNow",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 172,
+            "name": "Twitch++",
+            "developer": "Twitch++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 173,
+            "name": "Twitter++",
+            "developer": "Twitter++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 174,
+            "name": "Vidiyu",
+            "developer": "Vidiyu",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 175,
+            "name": "Vine++",
+            "developer": "Vine++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 176,
+            "name": "WhatsApp++",
+            "developer": "WhatsApp++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 1356,
+            "name": "Chimera",
+            "developer": "Chimera",
+            "subtitle": "Electra Team"
+        },
+        {
+            "id": 178,
+            "name": "WhatsApp Watusi",
+            "developer": "WhatsApp Watusi",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 179,
+            "name": "WNBA++",
+            "developer": "WNBA++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 180,
+            "name": "xCleaner",
+            "developer": "xCleaner",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 181,
+            "name": "yalu102",
+            "developer": "yalu102",
+            "subtitle": "qwertyoruiop"
+        },
+        {
+            "id": 182,
+            "name": "YouTube++",
+            "developer": "YouTube++",
+            "subtitle": "UnlimApps"
+        },
+        {
+            "id": 183,
+            "name": "YouTube Music++",
+            "developer": "YouTube Music++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 184,
+            "name": "Halow TV",
+            "developer": "Halow TV",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 185,
+            "name": "Houdini",
+            "developer": "Houdini",
+            "subtitle": "cheesecakeufo"
+        },
+        {
+            "id": 186,
+            "name": "LazyMan",
+            "developer": "LazyMan",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 187,
+            "name": "NetflixChecker",
+            "developer": "NetflixChecker",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 189,
+            "name": "Speedtest++",
+            "developer": "Speedtest++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 199,
+            "name": "OneCast++",
+            "developer": "OneCast++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 200,
+            "name": "Betternet++",
+            "developer": "Betternet++",
+            "subtitle": "n3d"
+        },
+        {
+            "id": 201,
+            "name": "HexaTech++",
+            "developer": "HexaTech++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 202,
+            "name": "Twitter Dark Mode",
+            "developer": "Twitter Dark Mode",
+            "subtitle": "Chloee Design"
+        },
+        {
+            "id": 203,
+            "name": "UFC++",
+            "developer": "UFC++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 204,
+            "name": "Unc0ver (Official)",
+            "developer": "Unc0ver (Official)",
+            "subtitle": "Pwn20wnd"
+        },
+        {
+            "id": 206,
+            "name": "iCloneOS",
+            "developer": "iCloneOS",
+            "subtitle": "iCloneOS"
+        },
+        {
+            "id": 318,
+            "name": "Anime Slayer",
+            "developer": "Anime Slayer",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 320,
+            "name": "iSource",
+            "developer": "iSource",
+            "subtitle": "MasonD3V"
+        },
+        {
+            "id": 321,
+            "name": "Snapchat (Phantom)",
+            "developer": "Snapchat (Phantom)",
+            "subtitle": "Hadoiz"
+        },
+        {
+            "id": 322,
+            "name": "Comic Box++",
+            "developer": "Comic Box++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 323,
+            "name": "Magic Cleaner++",
+            "developer": "Magic Cleaner++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 324,
+            "name": "Carly for BMW",
+            "developer": "Carly for BMW",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 325,
+            "name": "Spotify Blue",
+            "developer": "Spotify Blue",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 326,
+            "name": "Spotify Red",
+            "developer": "Spotify Red",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 327,
+            "name": "Spotify White",
+            "developer": "Spotify White",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 208,
+            "name": "Electra1131+Better VFS by GeoSn0w",
+            "developer": "Electra1131+Better VFS by GeoSn0w",
+            "subtitle": "Electra Team & GeoSn0w"
+        },
+        {
+            "id": 209,
+            "name": "Infinity X",
+            "developer": "Infinity X",
+            "subtitle": "iCloneOS"
+        },
+        {
+            "id": 210,
+            "name": "IPSW X",
+            "developer": "IPSW X",
+            "subtitle": "iCloneOS"
+        },
+        {
+            "id": 1370,
+            "name": "Geofilza 12.1.3-12.2 4K",
+            "developer": "Geofilza 12.1.3-12.2 4K",
+            "subtitle": "GeoSn0w"
+        },
+        {
+            "id": 1369,
+            "name": "GeoSetter",
+            "developer": "GeoSetter",
+            "subtitle": "GeoSn0w"
+        },
+        {
+            "id": 1368,
+            "name": "Geofilza 12.1.3-12.2",
+            "developer": "Geofilza 12.1.3-12.2",
+            "subtitle": "GeoSn0w"
+        },
+        {
+            "id": 1367,
+            "name": "Xarian",
+            "developer": "Xarian",
+            "subtitle": "Tetunus"
+        },
+        {
+            "id": 1371,
+            "name": "FilzaEscaped iOS 11-12.2",
+            "developer": "FilzaEscaped iOS 11-12.2",
+            "subtitle": "AppleDry05"
+        },
+        {
+            "id": 1372,
+            "name": "Minecraft",
+            "developer": "Minecraft",
+            "subtitle": "Mojang"
+        },
+        {
+            "id": 1373,
+            "name": "Bloons TD 5",
+            "developer": "Bloons TD 5",
+            "subtitle": "Kaiparasoft LTD"
+        },
+        {
+            "id": 1374,
+            "name": "Marvis Pro",
+            "developer": "Marvis Pro",
+            "subtitle": "Aditya Rajveer"
+        },
+        {
+            "id": 1375,
+            "name": "Plague Inc.",
+            "developer": "Plague Inc.",
+            "subtitle": "Ndemic Creations LTP"
+        },
+        {
+            "id": 1376,
+            "name": "Terraria",
+            "developer": "Terraria",
+            "subtitle": "505 Games (US), Inc."
+        },
+        {
+            "id": 1377,
+            "name": "Worms 4",
+            "developer": "Worms 4",
+            "subtitle": "Team17 Software, Limited"
+        },
+        {
+            "id": 1378,
+            "name": "iPotter",
+            "developer": "iPotter",
+            "subtitle": "iPotter Team"
+        },
+        {
+            "id": 1379,
+            "name": "TikTok++",
+            "developer": "TikTok++",
+            "subtitle": "Michael Lema"
+        },
+        {
+            "id": 292,
+            "name": "Twitter Labs",
+            "developer": "Twitter Labs",
+            "subtitle": "Chloee Design"
+        },
+        {
+            "id": 353,
+            "name": "xSpiral rootKit",
+            "developer": "xSpiral rootKit",
+            "subtitle": "xSpiral Team"
+        },
+        {
+            "id": 303,
+            "name": "ScummVM++",
+            "developer": "ScummVM++",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 304,
+            "name": "SportsTV",
+            "developer": "SportsTV",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 307,
+            "name": "CotoMovies",
+            "developer": "CotoMovies",
+            "subtitle": "CotoMovies"
+        },
+        {
+            "id": 313,
+            "name": "Plenix Royale",
+            "developer": "Plenix Royale",
+            "subtitle": "Stavros"
+        },
+        {
+            "id": 309,
+            "name": "MediaBox HD",
+            "developer": "MediaBox HD",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 310,
+            "name": "MobileMiner",
+            "developer": "MobileMiner",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 311,
+            "name": "MovieBox Pro",
+            "developer": "MovieBox Pro",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 312,
+            "name": "NonceSet1112",
+            "developer": "NonceSet1112",
+            "subtitle": "Julioverne"
+        },
+        {
+            "id": 316,
+            "name": "Infinity Blade III",
+            "developer": "Infinity Blade III",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 352,
+            "name": "Torngat - Badges",
+            "developer": "Torngat - Badges",
+            "subtitle": "Alticha"
+        },
+        {
+            "id": 331,
+            "name": "Ignition",
+            "developer": "Ignition",
+            "subtitle": "Ignition"
+        },
+        {
+            "id": 347,
+            "name": "Sound Joc",
+            "developer": "Sound Joc",
+            "subtitle": "@soundjoc"
+        },
+        {
+            "id": 354,
+            "name": "CarrierChanger12",
+            "developer": "CarrierChanger12",
+            "subtitle": "iOSPeterDev"
+        },
+        {
+            "id": 349,
+            "name": "Electra1141",
+            "developer": "Electra1141",
+            "subtitle": "Electra Team"
+        },
+        {
+            "id": 1357,
+            "name": "Duolingo++",
+            "developer": "Duolingo++",
+            "subtitle": "iOSGods"
+        },
+        {
+            "id": 357,
+            "name": "GeoFilza",
+            "developer": "GeoFilza",
+            "subtitle": "GeoSn0w (FCE365)"
+        },
+        {
+            "id": 361,
+            "name": "Filzaescaped12.X",
+            "developer": "Filzaescaped12.X",
+            "subtitle": "AppleDry05"
+        },
+        {
+            "id": 362,
+            "name": "Animoji Studio",
+            "developer": "Animoji Studio",
+            "subtitle": "Insidegui"
+        },
+        {
+            "id": 363,
+            "name": "TaiYaKi",
+            "developer": "TaiYaKi",
+            "subtitle": "Nightlightz24884"
+        },
+        {
+            "id": 1380,
+            "name": "Pulse",
+            "developer": "Pulse",
+            "subtitle": "Klinker"
+        },
+        {
+            "id": 1381,
+            "name": "RCD - Lights",
+            "developer": "RCD - Lights",
+            "subtitle": "The1PrimeYT"
+        },
+        {
+            "id": 375,
+            "name": "iTorrent",
+            "developer": "iTorrent",
+            "subtitle": "XITRIX"
+        },
+        {
+            "id": 376,
+            "name": "FastRespring12",
+            "developer": "FastRespring12",
+            "subtitle": "Zeph"
+        },
+        {
+            "id": 379,
+            "name": "NineAnimator",
+            "developer": "NineAnimator",
+            "subtitle": "nuclearmarcus"
+        },
+        {
+            "id": 380,
+            "name": "Insidious Beta",
+            "developer": "Insidious Beta",
+            "subtitle": "Ignition Team"
+        },
+        {
+            "id": 382,
+            "name": "Anime Glare",
+            "developer": "Anime Glare",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 386,
+            "name": "Sileo",
+            "developer": "Sileo",
+            "subtitle": "GetSileo"
+        },
+        {
+            "id": 389,
+            "name": "MU origin MOD",
+            "developer": "MU origin MOD",
+            "subtitle": "Neko Chan"
+        },
+        {
+            "id": 391,
+            "name": "Study One",
+            "developer": "Study One",
+            "subtitle": "Wyatt Gahm"
+        },
+        {
+            "id": 1338,
+            "name": "Appify",
+            "developer": "Appify",
+            "subtitle": "iCloneOS"
+        },
+        {
+            "id": 1359,
+            "name": "ComicBox",
+            "developer": "ComicBox",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 1342,
+            "name": "Automatic Watch Faces",
+            "developer": "Automatic Watch Faces",
+            "subtitle": "ElChoquito"
+        },
+        {
+            "id": 1343,
+            "name": "NonceReboot12XX",
+            "developer": "NonceReboot12XX",
+            "subtitle": "Umang"
+        },
+        {
+            "id": 1344,
+            "name": "EvilOnion++",
+            "developer": "EvilOnion++",
+            "subtitle": "Ignition"
+        },
+        {
+            "id": 1346,
+            "name": "Respring12",
+            "developer": "Respring12",
+            "subtitle": "Brandon"
+        },
+        {
+            "id": 1347,
+            "name": "iFilesV2",
+            "developer": "iFilesV2",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 1348,
+            "name": "PS4 iTrainer",
+            "developer": "PS4 iTrainer",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 1349,
+            "name": "DJI GO 4",
+            "developer": "DJI GO 4",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 1355,
+            "name": "EZ Music",
+            "developer": "EZ Music",
+            "subtitle": "Ayman Zaher"
+        },
+        {
+            "id": 1353,
+            "name": "Spike for iPhone",
+            "developer": "Spike for iPhone",
+            "subtitle": "Miguel Kennedy"
+        },
+        {
+            "id": 1354,
+            "name": "Spike for iPad",
+            "developer": "Spike for iPad",
+            "subtitle": "Miguel Kennedy"
+        }
+    ],
+    "TopApps": [{
+            "id": 204,
+            "name": "Unc0ver (Official)",
+            "developer": "Pwn20wnd",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 361,
+            "name": "Filzaescaped12.X",
+            "developer": "AppleDry05",
+            "subtitle": "utilities"
+        },
+        {
+            "id": 354,
+            "name": "CarrierChanger12",
+            "developer": "iOSPeterDev",
+            "subtitle": "utilities"
+        },
+        {
+            "id": 162,
+            "name": "Spotify++",
+            "developer": "Juiloverne",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 1356,
+            "name": "Chimera",
+            "developer": "Electra Team",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 143,
+            "name": "RootlessJB",
+            "developer": "Jake James",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 182,
+            "name": "YouTube++",
+            "developer": "UnlimApps",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 349,
+            "name": "Electra1141",
+            "developer": "Electra Team",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 352,
+            "name": "Torngat - Badges",
+            "developer": "Alticha",
+            "subtitle": "utilities"
+        },
+        {
+            "id": 37,
+            "name": "Electra1131 VFS",
+            "developer": "Electra Team",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 134,
+            "name": "Popcorn Time",
+            "developer": "PopcornTimeTV",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 311,
+            "name": "MovieBox Pro",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 84,
+            "name": "Instagram++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 176,
+            "name": "WhatsApp++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 34,
+            "name": "Electra1112",
+            "developer": "Electra Team",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 181,
+            "name": "yalu102",
+            "developer": "qwertyoruiop",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 142,
+            "name": "Rollectra",
+            "developer": "Pwn20wnd",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 357,
+            "name": "GeoFilza",
+            "developer": "GeoSn0w (FCE365)",
+            "subtitle": "utilities"
+        },
+        {
+            "id": 47,
+            "name": "FilzaJailed",
+            "developer": "Unknown",
+            "subtitle": "utilities"
+        },
+        {
+            "id": 28,
+            "name": "Deezer++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 154,
+            "name": "Snapchat++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 1,
+            "name": "123 Movies",
+            "developer": "D&D Studio",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 208,
+            "name": "Electra1131+Better VFS by GeoSn0w",
+            "developer": "Electra Team & GeoSn0w",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 307,
+            "name": "CotoMovies",
+            "developer": "CotoMovies",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 56,
+            "name": "GBA4iOS",
+            "developer": "Unknown",
+            "subtitle": "emulators"
+        },
+        {
+            "id": 309,
+            "name": "MediaBox HD",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 29,
+            "name": "Delta",
+            "developer": "Unknown",
+            "subtitle": "emulators"
+        },
+        {
+            "id": 1358,
+            "name": "Unc0ver Dark (Unofficial)",
+            "developer": "Shady",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 155,
+            "name": "Snapchat Phantom Lite",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 86,
+            "name": "Instagram Rocket",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 183,
+            "name": "YouTube Music++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 106,
+            "name": "Meridian",
+            "developer": "PsychoTea (iBSparkes)",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 125,
+            "name": "Pangu",
+            "developer": "Pangu Team",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 80,
+            "name": "iFile",
+            "developer": "Unknown",
+            "subtitle": "utilities"
+        },
+        {
+            "id": 1372,
+            "name": "Minecraft",
+            "developer": "Mojang",
+            "subtitle": "appstore"
+        },
+        {
+            "id": 50,
+            "name": "FlappyBird",
+            "developer": "Unknown",
+            "subtitle": "games"
+        },
+        {
+            "id": 24,
+            "name": "Plenix Clash",
+            "developer": "Unknown",
+            "subtitle": "games"
+        },
+        {
+            "id": 178,
+            "name": "WhatsApp Watusi",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 386,
+            "name": "Sileo",
+            "developer": "GetSileo",
+            "subtitle": "utilities"
+        },
+        {
+            "id": 87,
+            "name": "iPlayTV",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 26,
+            "name": "Crunchyroll++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 200,
+            "name": "Betternet++",
+            "developer": "n3d",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 9,
+            "name": "BatteryLife",
+            "developer": "Carlo Tortorella",
+            "subtitle": "utilities"
+        },
+        {
+            "id": 43,
+            "name": "Facebook++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 187,
+            "name": "NetflixChecker",
+            "developer": "Unknown",
+            "subtitle": "unknown"
+        },
+        {
+            "id": 75,
+            "name": "iCleaner",
+            "developer": "Unknown",
+            "subtitle": "utilities"
+        },
+        {
+            "id": 326,
+            "name": "Spotify Red",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 313,
+            "name": "Plenix Royale",
+            "developer": "Stavros",
+            "subtitle": "games"
+        },
+        {
+            "id": 83,
+            "name": "iNDS",
+            "developer": "Unknown",
+            "subtitle": "emulators"
+        }
+    ],
+    "TweakedApps": [{
+            "id": 13,
+            "name": "BobbyMusic++",
+            "developer": "BobbyMovie",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 16,
+            "name": "Cartoon HD++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 26,
+            "name": "Crunchyroll++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 28,
+            "name": "Deezer++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 30,
+            "name": "DNS Override++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 32,
+            "name": "DownCloud++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 1361,
+            "name": "Cercube 5",
+            "developer": "Majd Alfhaily",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 43,
+            "name": "Facebook++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 66,
+            "name": "HandJoy++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 71,
+            "name": "hiMusic++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 84,
+            "name": "Instagram++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 85,
+            "name": "Instagram IGExperiments",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 86,
+            "name": "Instagram Rocket",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 92,
+            "name": "Kik++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 105,
+            "name": "Memorado++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 116,
+            "name": "musical.ly++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 118,
+            "name": "Napster++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 130,
+            "name": "Plex++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 136,
+            "name": "ProTube++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 138,
+            "name": "Radio Javan++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 144,
+            "name": "Saavn++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 151,
+            "name": "Sleep Cycle++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 152,
+            "name": "Slick TV++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 154,
+            "name": "Snapchat++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 155,
+            "name": "Snapchat Phantom Lite",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 156,
+            "name": "Snapchat SCOthman",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 157,
+            "name": "Snapchat SCOthman Lite",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 161,
+            "name": "SoundCloud++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 162,
+            "name": "Spotify++",
+            "developer": "Juiloverne",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 167,
+            "name": "The Movie DB++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 172,
+            "name": "Twitch++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 173,
+            "name": "Twitter++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 175,
+            "name": "Vine++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 176,
+            "name": "WhatsApp++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 178,
+            "name": "WhatsApp Watusi",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 179,
+            "name": "WNBA++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 182,
+            "name": "YouTube++",
+            "developer": "UnlimApps",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 183,
+            "name": "YouTube Music++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 189,
+            "name": "Speedtest++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 199,
+            "name": "OneCast++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 200,
+            "name": "Betternet++",
+            "developer": "n3d",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 201,
+            "name": "HexaTech++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 202,
+            "name": "Twitter Dark Mode",
+            "developer": "Chloee Design",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 203,
+            "name": "UFC++",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 321,
+            "name": "Snapchat (Phantom)",
+            "developer": "Hadoiz",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 326,
+            "name": "Spotify Red",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 327,
+            "name": "Spotify White",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 1378,
+            "name": "iPotter",
+            "developer": "iPotter Team",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 1379,
+            "name": "TikTok++",
+            "developer": "Michael Lema",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 292,
+            "name": "Twitter Labs",
+            "developer": "Chloee Design",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 1357,
+            "name": "Duolingo++",
+            "developer": "iOSGods",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 1344,
+            "name": "EvilOnion++",
+            "developer": "Ignition",
+            "subtitle": "tweaked"
+        },
+        {
+            "id": 1349,
+            "name": "DJI GO 4",
+            "developer": "Unknown",
+            "subtitle": "tweaked"
+        }
+    ],
+    "PaidAndOtherApps": [{
+            "id": 1372,
+            "name": "Minecraft",
+            "developer": "appstore",
+            "subtitle": "Mojang"
+        },
+        {
+            "id": 1373,
+            "name": "Bloons TD 5",
+            "developer": "appstore",
+            "subtitle": "Kaiparasoft LTD"
+        },
+        {
+            "id": 1374,
+            "name": "Marvis Pro",
+            "developer": "appstore",
+            "subtitle": "Aditya Rajveer"
+        },
+        {
+            "id": 1375,
+            "name": "Plague Inc.",
+            "developer": "appstore",
+            "subtitle": "Ndemic Creations LTP"
+        },
+        {
+            "id": 1376,
+            "name": "Terraria",
+            "developer": "appstore",
+            "subtitle": "505 Games (US), Inc."
+        },
+        {
+            "id": 1377,
+            "name": "Worms 4",
+            "developer": "appstore",
+            "subtitle": "Team17 Software, Limited"
+        }
+    ],
+    "TweakedGames": [{
+            "id": 23,
+            "name": "Clash of Kings++",
+            "developer": "Unknown",
+            "subtitle": "games"
+        },
+        {
+            "id": 24,
+            "name": "Plenix Clash",
+            "developer": "Unknown",
+            "subtitle": "games"
+        },
+        {
+            "id": 50,
+            "name": "FlappyBird",
+            "developer": "Unknown",
+            "subtitle": "games"
+        },
+        {
+            "id": 133,
+            "name": "Pokemonidex",
+            "developer": "Unknown",
+            "subtitle": "games"
+        },
+        {
+            "id": 313,
+            "name": "Plenix Royale",
+            "developer": "Stavros",
+            "subtitle": "games"
+        },
+        {
+            "id": 389,
+            "name": "MU origin MOD",
+            "developer": "Neko Chan",
+            "subtitle": "games"
+        }
+    ],
+    "PaidAndOtherGames": [{
+            "id": 2,
+            "name": "2600.emu",
+            "developer": "emulators",
+            "subtitle": "Robert Broglia"
+        },
+        {
+            "id": 15,
+            "name": "C64.emu",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 29,
+            "name": "Delta",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 48,
+            "name": "Firebird Emu 32bit",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 49,
+            "name": "Firebird Emu 64bit",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 52,
+            "name": "FloppyCloud",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 54,
+            "name": "GamePad",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 55,
+            "name": "GBA.emu",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 56,
+            "name": "GBA4iOS",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 57,
+            "name": "GBA4iOS11",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 58,
+            "name": "GBC.emu",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 59,
+            "name": "GC4iOS",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 60,
+            "name": "Gearboy",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 61,
+            "name": "Gearsystem",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 63,
+            "name": "gpSPhone",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 64,
+            "name": "Gridlee",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 67,
+            "name": "HandJoy",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 68,
+            "name": "Happy Chick 32bit",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 69,
+            "name": "Happy Chick 64bit",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 77,
+            "name": "iDos",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 78,
+            "name": "iDos 2",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 79,
+            "name": "iFBA",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 83,
+            "name": "iNDS",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 89,
+            "name": "iSSB",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 102,
+            "name": "MAME4iOS 32bit",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 103,
+            "name": "MAME4iOS 64bit",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 104,
+            "name": "MD.emu",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 107,
+            "name": "MeSNEmu",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 114,
+            "name": "MSX.emu",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 119,
+            "name": "nds4ios",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 120,
+            "name": "NEO.emu",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 121,
+            "name": "NES.emu",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 122,
+            "name": "Nestopia",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 124,
+            "name": "NPG.emu",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 126,
+            "name": "PCE.emu",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 129,
+            "name": "Play!",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 135,
+            "name": "PPSSPP",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 137,
+            "name": "Provenance",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 140,
+            "name": "RetroArch 32bit",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 141,
+            "name": "RetroArch 64bit",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 149,
+            "name": "ScummVM",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 158,
+            "name": "Snes4ios",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 159,
+            "name": "Snes9x EX+",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 160,
+            "name": "Snes9x EX",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        },
+        {
+            "id": 206,
+            "name": "iCloneOS",
+            "developer": "emulators",
+            "subtitle": "iCloneOS"
+        },
+        {
+            "id": 209,
+            "name": "Infinity X",
+            "developer": "emulators",
+            "subtitle": "iCloneOS"
+        },
+        {
+            "id": 303,
+            "name": "ScummVM++",
+            "developer": "emulators",
+            "subtitle": "Unknown"
+        }
+    ],
+    "RecommendedThisWeek": [{
+            "id": 1358,
+            "name": "Unc0ver Dark (Unofficial)",
+            "developer": "Shady",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 34,
+            "name": "Electra1112",
+            "developer": "Electra Team",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 37,
+            "name": "Electra1131 VFS",
+            "developer": "Electra Team",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 40,
+            "name": "etasonJB",
+            "developer": "tihmstar",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 42,
+            "name": "extra recipe+yaluX",
+            "developer": "qwertyoruiop",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 73,
+            "name": "Home Depot",
+            "developer": "jk9357",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 100,
+            "name": "mach portal+yalu",
+            "developer": "qwertyoruiop",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 106,
+            "name": "Meridian",
+            "developer": "PsychoTea (iBSparkes)",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 123,
+            "name": "noncereboot1131UI",
+            "developer": "Pwn20wnd",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 125,
+            "name": "Pangu",
+            "developer": "Pangu Team",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 142,
+            "name": "Rollectra",
+            "developer": "Pwn20wnd",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 143,
+            "name": "RootlessJB",
+            "developer": "Jake James",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 1356,
+            "name": "Chimera",
+            "developer": "Electra Team",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 181,
+            "name": "yalu102",
+            "developer": "qwertyoruiop",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 204,
+            "name": "Unc0ver (Official)",
+            "developer": "Pwn20wnd",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 208,
+            "name": "Electra1131+Better VFS by GeoSn0w",
+            "developer": "Electra Team & GeoSn0w",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 1369,
+            "name": "GeoSetter",
+            "developer": "GeoSn0w",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 353,
+            "name": "xSpiral rootKit",
+            "developer": "xSpiral Team",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 312,
+            "name": "NonceSet1112",
+            "developer": "Julioverne",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 349,
+            "name": "Electra1141",
+            "developer": "Electra Team",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 1343,
+            "name": "NonceReboot12XX",
+            "developer": "Umang",
+            "subtitle": "jailbreaks"
+        },
+        {
+            "id": 1347,
+            "name": "iFilesV2",
+            "developer": "Unknown",
+            "subtitle": "jailbreaks"
+        }
+    ],
+    "MoviesOnIOS": [{
+            "id": 1,
+            "name": "123 Movies",
+            "developer": "D&D Studio",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 3,
+            "name": "AeroTV",
+            "developer": "AeroTV",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 4,
+            "name": "AirFloat",
+            "developer": "Trenskow",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 7,
+            "name": "AudioTube",
+            "developer": "Ricardo Ramos",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 14,
+            "name": "BobbyMusic",
+            "developer": "BobbyMovie",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 22,
+            "name": "Channels",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 25,
+            "name": "ClassicPlayer",
+            "developer": "Guillermo Morán (fr0st)",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 33,
+            "name": "DownCloud",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 51,
+            "name": "FlickJoy",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 72,
+            "name": "hiMusic",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 87,
+            "name": "iPlayTV",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 93,
+            "name": "Kodi Jarvis",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 94,
+            "name": "Kodi Krypton 32bit",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 95,
+            "name": "Kodi Krypton 64bit",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 96,
+            "name": "Kodi Legacy",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 97,
+            "name": "Kodi Leia 32bit",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 98,
+            "name": "Kodi Leia 64bit",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 99,
+            "name": "Live Wire",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 109,
+            "name": "MIXTAPE PLAYER",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 113,
+            "name": "MovieHD",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 115,
+            "name": "Music Pocket",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 117,
+            "name": "MusicJunkie",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 134,
+            "name": "Popcorn Time",
+            "developer": "PopcornTimeTV",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 146,
+            "name": "SaveCloud For SoundCloud",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 150,
+            "name": "SetBeat",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 153,
+            "name": "Slick TV",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 163,
+            "name": "StreamerTV",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 164,
+            "name": "Surge",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 168,
+            "name": "The Movie DB",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 170,
+            "name": "ToonsNow",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 184,
+            "name": "Halow TV",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 318,
+            "name": "Anime Slayer",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 322,
+            "name": "Comic Box++",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 325,
+            "name": "Spotify Blue",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 304,
+            "name": "SportsTV",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 307,
+            "name": "CotoMovies",
+            "developer": "CotoMovies",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 309,
+            "name": "MediaBox HD",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 311,
+            "name": "MovieBox Pro",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 347,
+            "name": "Sound Joc",
+            "developer": "@soundjoc",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 363,
+            "name": "TaiYaKi",
+            "developer": "Nightlightz24884",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 379,
+            "name": "NineAnimator",
+            "developer": "nuclearmarcus",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 382,
+            "name": "Anime Glare",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 1359,
+            "name": "ComicBox",
+            "developer": "Unknown",
+            "subtitle": "entertainment"
+        },
+        {
+            "id": 1355,
+            "name": "EZ Music",
+            "developer": "Ayman Zaher",
+            "subtitle": "entertainment"
+        }
+    ],
+    "LatestUpdate": []
+})
